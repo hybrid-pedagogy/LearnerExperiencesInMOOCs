@@ -1,0 +1,62 @@
+body{
+    background-image: url('bgpic.png');
+    background-repeat: repeat-x;
+}
+h1{
+    font-size: 48px !important;
+    font-weight: bold;
+}
+h2{
+    font-size: 36px !important; 
+    margin-bottom: 3px !important;
+    font-weight: bold;
+}
+h3{
+    font-size: 24px !important; 
+    line-height: 125% !important;
+    margin-top: 3px !important;
+    font-weight: bold;
+}
+.content-area{
+    text-align: left;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-right: 80px;   
+}
+#abstract{
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 20px;
+}
+#columns {
+    width: 1000px;
+}
+
+#columns .column {
+    position: relative;
+    width: 46%;
+    padding: 1%;
+    border: solid 1px #000;
+}
+
+#columns .left {
+    float: left;
+}
+
+#columns .right {
+    float: right;
+}
+
+#downloadtable{
+    width:30%;
+    text-align: center;
+}
+
+#retweetimg{
+    background-image: url("retweet-network.png");
+    background-position:100%  -12%;
+    background-repeat: no-repeat;
+    background-size: 279px 236px;
+}
+

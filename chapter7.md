@@ -4,8 +4,7 @@ title: Tales of a MOOC Dropout
 author: Cindy Londeore
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 
@@ -17,7 +16,7 @@ Individuals who join a MOOC are described as being part of course enrollments. H
 
 I participated in two courses over the last few months that were very much alike in terms of course structure and assessment mechanisms, but my experiences in these two courses were very different. The first course became a chore that I quickly abandoned, but the second was so interesting that I finished the course and earned a certificate, even though I was under no obligation to do so.
 
-## Semantic Web ##
+### Semantic Web ###
 
 The first course I enrolled in was [Semantic Web](https://openhpi.de/course/semanticweb) taught by Dr. Harald Sack and offered directly by the Hasso-Platner Institut in Germany. The course description said that we would “learn the fundamentals of Semantic Web technologies. [We would] learn how to represent knowledge and how to access and benefit from semantic data on the Web.” Prerequisite knowledge needed for the course included a “basic knowledge” of web and database technology, and the foundations of logic.
 
@@ -33,7 +32,7 @@ I overestimated my grasp of the prerequisites in Semantic Web. My overestimatio
 
 Regardless of where I place the blame,  if I had made a similar mistake in a traditional course, I would have been faced with penalties for dropping out. At the minimum I would have had to find another course to make up the credit hours.
 
-## Model Thinking ##
+### Model Thinking ###
 
 The second course I enrolled in was [Model Thinking](https://www.coursera.org/course/modelthinking) taught by Dr. Scott E. Page and offered by Coursera. The course description said that the course would “present a starter kit of models ... The models covered in this class provide a foundation for future social science classes, whether they be in economics, political science, business, or sociology. Mastering this material will give you a huge leg up in advanced courses.” Students needed to be “very comfortable” with algebra, but no calculus was required.
 
@@ -52,7 +51,7 @@ I found the material in this course so interesting and accessible that I was sti
 ![](images/image00.png)  
 *Figure 1. My Model Thinking Certificate*
 
-## In retrospect... ##
+### In retrospect... ###
 
 Both courses used more or less the same presentation structure and had more or less the same assessment tasks. So, really, what was the difference? Why did one work and the other didn’t?
 

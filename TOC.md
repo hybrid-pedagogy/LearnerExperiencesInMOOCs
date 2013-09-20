@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Learning Experiences in MOOCs
+title: Table of Contents
 ---
 
-## Contents ##
+## {{ page.title }} ##
+
+<br/>
 
 Chapter 1: [How do learners experience open online learning?](chapter1.html)  
 George Veletsianos, PhD

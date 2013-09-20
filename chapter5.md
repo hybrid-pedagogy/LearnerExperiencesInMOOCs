@@ -4,8 +4,7 @@ title: MOOCs made me see the potential of online learning
 author: Hui-chieh Chen
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 

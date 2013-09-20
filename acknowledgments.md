@@ -3,8 +3,9 @@ layout: post
 title: Acknowledgments
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
+
+<br/>
 
 The creation and release of this e-book would not have been possible without the generous contributions of numerous individuals.
  

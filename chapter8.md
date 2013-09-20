@@ -4,8 +4,7 @@ title: What I Learned From And About MOOCs
 author: Bahaa G. Ghobrial
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 
@@ -15,7 +14,7 @@ Massive open online courses (MOOCs) offer numerous opportunities and challenges.
 
 In the paragraphs that follow, I will discuss opportunities and concerns that I experienced while enrolled in three massive open online courses.
 
-## Fundamentals of Online Education ##
+### Fundamentals of Online Education ###
 
 I started my exploration by seeking out an online course related to e-learning because I am interested to learn how to create online learning courses. As a doctoral student in media studies, I want to learn how new media can contribute to online learning from the lens of educational technology. There were two courses that were offered on the [Coursera](https://www.coursera.org/) platform related to this topic: [E-learning and Digital Cultures](https://www.coursera.org/course/edc), developed by five instructors at the University of Edinburgh, and [Fundamentals of Online Education: Planning and Application](https://www.coursera.org/course/foe), developed by one instructor at Georgia Tech. The syllabus, video lectures, and reading lists in the latter course seemed more organized so I decided to enroll in it.
 
@@ -23,7 +22,7 @@ However, a few days after the class started, the instructor [suspended it](http:
 
 As soon as I received the announcement about the course being suspended, I enrolled in the E-learning and Digital Cultures course. I hoped that a course that was developed by five instructors would offer me a wider exposure and multiple points of view to the topic. I joined this course during its second week.
 
-## E-learning and Digital Cultures ##
+### E-learning and Digital Cultures ###
 
 This course was about digital culture and its intersection with learning culture online. It was aimed at instructors, learning technologists, and others who were interested to learn about education in general. The total registered students in this class exceeded 42,000. Around 65% of visitors to the course’s news page seem to come from the USA and 8% from the UK.
 
@@ -35,7 +34,7 @@ As this course did not include weekly assignments, discussion forums were one of
 
 The assessment for the course was a digital artifact that was to contain a mixture of text, image, and video, and was to be posted online. The artifact was evaluated by other students through a guided peer-assessment and each participant was responsible for assessing the artifacts of at least three fellow participants. I did not complete the course assessment because I was not able to finish my digital artifact and assess other three artifacts during the last week of class. I thought that it would have been beneficial if the course assessment was divided into weekly milestones, such that the workload was distributed throughout the course period. This would have allowed me more time in completing my artifact and assessing others’ artifacts.
 
-## Social Network Analysis ##
+### Social Network Analysis ###
 
 After I finished the E-Learning and Digital Cultures course, I enrolled in another course with Coursera. This one was called [Social Network Analysis](https://www.coursera.org/course/sna) and was developed by Lada Adamic, an associate professor with the University of Michigan. I enrolled in this course because I had previously enrolled in a course on social capital and social networks and I wanted to advance my knowledge about social network analysis. This course focused on using social network analysis to explain social and informational networks and served my purposes.
 

@@ -4,8 +4,7 @@ title: Learning about MOOCs by being in one
 author: Mihyun Lim
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 

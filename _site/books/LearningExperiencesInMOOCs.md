@@ -1,12 +1,54 @@
----
-layout: post
-title: How do learners experience open online learning?  
-author: George Veletsianos, PhD
----
+latex input:		mmd-article-header
+Title:				Learning Experiences in MOOCs and Open Online Learning
+Author:				ed., George Veletsianos
+Date:				
+Base Header Level:	1
+latex mode:			memoir
+latex input:		mmd-article-begin-doc
+latex footer:		mmd-memoir-footer
 
-## {{ page.title }} ##
+# Contents #
 
-**{{ page.author }}**
+Chapter 1: [How do learners experience open online learning?](chapter1.html)  
+George Veletsianos, PhD
+
+Chapter 2: [Searching for Extraterrestrials, One Video Lecture at a Time](chapter2.html)  
+Jennifer Ramirez
+
+Chapter 3: [MOOCs&#58; Falling Short of What Online Learning Could Be](chapter3.html)  
+Michael Ota
+
+Chapter 4: [Culinary Creations from the Online Chef](chapter4.html)  
+Mary Bisheh
+
+Chapter 5: [MOOCs made me see the potential of online learning](chapter5.html)  
+Hui-chieh Chen
+
+Chapter 6: [Free, but monotonous and frustrating?](chapter6.html)  
+Afriannoor Miradinata
+
+Chapter 7: [Tales of a MOOC Dropout](chapter7.html)    
+Cindy Londeore
+
+Chapter 8: [What I Learned From And About MOOCs](chapter8.html)  
+Bahaa G. Ghobrial
+
+Chapter 9: [Learning about MOOCs by being in one](chapter9.html)  
+Mihyun Lim
+
+Chapter 10: [How I Learned to Stop Struggling and Translate the Web](chapter10.html)  
+Anne Valauri
+
+Chapter 11: [Becoming a DJ&#58; Learning How to Mix Electronic Music via the Open Web](chapter11.html)  
+Michael Mendoza
+
+[Contributors](contributors.html)
+
+[Acknowledgments](acknowledgments.html)  
+
+
+# How do learners experience open online learning? #
+**George Veletsianos, PhD**
 
 >At a time when researchers and online learning providers are embracing the use of learning analytics and big data to examine learner behaviors, activities, and actions, very few researchers have sought to gain a deep, qualitative, and multidimensional understanding of learner experiences with open forms of learning.
 
@@ -28,7 +70,7 @@ It is important to mention that this e-book does not purport to present a genera
 
 Furthermore, this book should not be taken to represent a description of learner experiences with traditional online education. “Online education” has a long tradition and is a broad umbrella term that captures a multitude of approaches to learning -- from step-by-step tutorials designed to impart specific skills to autonomous exploration of online resources and communities of interest. [Online education and MOOCs are similar, but unique, concepts](http://www.insidehighered.com/blogs/technology-and-learning/bubbles-online-education-and-confused-reporting). Conflating the two does a disservice to the field, to educators who strive to improve learning, and to the scholars who have spent their careers investigating the discipline and practice of online education. Above all however, flattening terms and conflating ideas does a disservice to learners worldwide: such an oversimplification prevents educators, designers, developers, and researchers from seeing what is unique in each context, and impedes stakeholders from improving learning environments and platforms.
 
-### The process behind *Learner Experiences with MOOCs and Open Online Learning* ###
+## The process behind *Learner Experiences with MOOCs and Open Online Learning* ##
 
 As part of a course focused on online learning, I asked my graduate students to immerse themselves in open online learning endeavors and journal about, reflect upon, and examine their own learning experiences. The purpose of this assignment/experiment was to allow students to explore and investigate open online learning. Students were free to define open online learning in different ways. For example, they could choose from a gamut of open online courses (e.g., from [DS106](http://ds106.us/) to any of the courses offered by MOOC providers such as Udacity, EdX, and Coursera), or they could identify skills, competencies, and content they wanted to learn and carve their own path towards desired outcomes. I asked students to focus on topics that were of interest to them and to participate in this experience for two months. To accommodate for variations in course start dates, course lengths, and unexpected events (e.g., course cancellations), I allowed students to explore and participate in more than one experience if the need arose. I felt that such a flexible approach was reasonable (and perhaps necessary) to approximate what individuals do when they undertake open learning out of their own volition.
 
@@ -46,7 +88,7 @@ These three realizations led me to seek ways to enable my students to tell their
 
 I discussed these issues with my students, and together we decided to seek ways to share their essays with others. We debated self-publishing essays (as others [have](http://pm4id.org/) [done](https://en.wikibooks.org/wiki/Breaking_the_Mold:_An_Educational_Perspective_on_Diffusion_of_Innovation)), publishing the essays with an academic book publisher, or sharing them via our social media channels. We decided that we wanted the essays to be peer-reviewed, published as part of a collection, and to become available quickly so as to contribute to the conversation at a time when the field needs it most. The editors of *Hybrid Pedagogy* shared our vision and were eager and excited to provide a forum for the learner voice to be heard. The outcome of this endeavor is the e-book that you are reading: a collection of essays, a collection of learner stories of their experiences with open online learning.
 
-### Concluding thoughts ###
+## Concluding thoughts ##
 
 As designers, researchers, and educators aiming to create learning experiences that are effective, worthwhile and sensitive to student needs, it is imperative that we involve learners in conversations and decisions surrounding education. I hope that this e-book provides a valuable resource for students, researchers, and designers to understand learner experiences with open forms of learning, and that it encourages others to study learner experiences and to contribute to our shared understanding of what it means to teach and learn in today’s emerging learning environments.
 

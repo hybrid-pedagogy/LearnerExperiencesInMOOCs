@@ -4,8 +4,7 @@ title: Free, but monotonous and frustrating?
 author: Afriannoor Miradinata
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 
@@ -19,23 +18,23 @@ The course website was well organized. The platform included a permanent menu at
 
 From what I knew about MOOCs, I assumed that the MOOC format would require me to be a self-directed learner. In the process, I would develop independent learning skills, since I was expected to be wholly responsible for my own learning. I was largely accurate in this assumption and felt daunted by this format. Even during the course overview, the content seemed daunting. As a result, and given that the course was fast-paced, I was not sure I could complete this course successfully.
 
-## Course structure and delivery ##
+### Course structure and delivery ###
 
 The course lasted 11 weeks and I participated in the first 7 weeks. Each week focused on one topic that was delivered in three segments. The first segment included a topic introduction and provided one short video and reading assignments. The second segment was the core lesson that provided anywhere from 9 to 22 short videos covering the topic for the week, and I estimate that I watched about 80% of these videos. The third segment encompassed a homework assignment that included several quizzes covering all the weekly materials. I only did the homework one time and I scored 39%. Part of the problem here was technical: at the time that I took this class, the platform had a technical glitch that caused the system to mishandle submitted answers.
 
-### Video lectures ###
+#### Video lectures ####
 
 Several videos presented the instructors teaching students in front of a class. I enjoyed the fact that these videos were filmed in a classroom setting because I felt like I was one of the students physically attending the class when I watched the videos. However, I felt that the lectures and videos were monotonous. However, some lectures included questions next to the video to assess learner understanding. I really liked that I could answer the questions directly and if I did not understand the concept, I could go back to the video to look for the answers.
 
-### Quizzes ###
+#### Quizzes ####
 
 Overall, I felt that the quizzes were also monotonous. One suggestion to improve this issue would be for instructors to use other platforms to support project groups as a substitute to the homework quizzes. I feel that such a change would enhance collaboration and interaction in the course and greatly improve it.
 
-### Discussion forums ###
+#### Discussion forums ####
 
 Discussion forums were located at the bottom of quizzes and videos. I believe that the reason for such a positioning was so that learners could share their thoughts in relation to specific quizzes or videos. However, I did not find much value in the discussion threads because the number of posts was overwhelming. Even though a number of discussions were relevant to the content, others were off-task and included complaints about the video features, quizzes, and confusing/subjective questions. Additionally, the responses on the discussion boards were not always immediately helpful as participants would often only recommend to re-examine the lectures, slides, and/or readings. I felt that I needed more specific guidance and support. I realize that the instructors were not present on the discussion forums and could not be there every day. Thus, I felt that it was up to me to be motivated and ready to participate. I think this is an issue that needs to be refined to work better for learners. Perhaps the discussion forums could be administered by small groups that are closely moderated by teaching assistants. Such a solution might make the discussions more relevant and targeted.
 
-## Conclusion ##
+### Conclusion ###
 
 MOOCs have the potential to offer free education. Yet, in my course I encountered frustrations, dissatisfaction, and monotony. While learners have the opportunity to increase their knowledge, and to connect with others around the world, a number of issues need to be tackled to improve the learning experience.
 

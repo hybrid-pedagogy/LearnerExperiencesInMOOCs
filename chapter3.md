@@ -4,8 +4,7 @@ title: MOOCs&#58; Falling Short of What Online Learning Could Be
 author: Michael Ota
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 
@@ -13,7 +12,7 @@ author: Michael Ota
 
 Online learning promises significant advantages over the traditional face-to-face setting: self pacing; access to infinitely vast resources on the Internet; engaging and immediately responsive instruction; and a diverse and effective community of co-learners available 24-7 for feedback and connection. I believe the power of online education is in changing how we learn. While taking wo Statistics MOOCs (one through EdX and one through Udacity) however, I felt that the courses fell short of their platform’s potential.
 
-## My first statistics MOOC ##
+### My first statistics MOOC ###
 
 I started with a [Statistics](https://www.edx.org/course/uc-berkeley/stat2-1x/introduction-statistics/594)[course through EdX](https://www.edx.org/course/uc-berkeley/stat2-1x/introduction-statistics/594). I chose this because I was beginning the data analysis phase of my MA thesis and thought it would be good to refresh my knowledge on the topic.
 
@@ -27,7 +26,7 @@ The teaching staff seemed defensive in their interactions with students, both in
 
 I also experienced a great deal of stress due to the graded practice sets and a progress-based grade book. I found myself falling into old habits of constantly checking that progress. I soon felt defeated once my overall grade was locked in below 70%. I revised my expectations downwards from achieving an A to scoring enough points to pass (35%). I ended up receiving a 55% mastery and was awarded a certificate of successful completion. I began the course wanting to acquire a comprehensive review of statistics, but by the time the course ended I was left with a partial sense of accomplishment and feelings of hollowness and incompleteness.
 
-## My second statistics MOOC ##
+### My second statistics MOOC ###
 
 Due to that fact that the EdX course ended earlier than anticipated (8 weeks instead of 15) and I felt unsatisfied by my review of statistics, I enrolled in a [second statistics](https://www.udacity.com/course/st101)[course](https://www.udacity.com/course/st101). This course was provided through Udacity and had no start/end dates or timeline. It simply consisted of a sequence of video lectures. The Udacity course was less stressful because the lack of deadlines allowed me to work at my own pace. In addition, the content of this course was engaging, as the videos embedded practice problems relevant to real life and provided feedback. For example, the very first problem was set in the context of the personality types of Facebook friends that might be on my friend list. I distinctly remember feeling engaged and interested in the idea of how a simple concept of probability could be lurking in my daily online interactions.
 
@@ -37,7 +36,7 @@ The Udacity course was an open-ended learning experience as there was no timelin
 
 However, even though I had the freedom to move between topics, I was limited by the topics pre-selected by the course designers. I would have rather been given a problem set and a list of topics to research for further flexibility. Just as in the EdX course, the Udacity course required me to solve problems using a specific method, even though there are different methods that I could have used to arrive at the correct answer. For example, Bayes’ rule was outlined in a step-by-step fashion, with emphasis placed on correct execution of each step. I found this approach confusing, especially as there are other methods that I could have used to solve the problems.
 
-## Suggestions for improving the learning experience ##
+### Suggestions for improving the learning experience ###
 
 To offer a better learning experience, the two courses that I participated in should revise the ways in which they deliver content in the following three ways:
 
@@ -47,7 +46,7 @@ To offer a better learning experience, the two courses that I participated in sh
 
 If the platforms were more open, allowing flexibility, interactivity, and connections to others, my experiences with both courses would have been greatly improved.
 
-## Thoughts on Learning Theory ##
+### Thoughts on Learning Theory ###
 
 Both the EdX and Udacity courses appeared to be based on traditional [behaviorist and cognitivist learning theories](http://vccslitonline.cc.va.us/usingweb/bckgrnd.htm). The courses were formatted with a lesson cycle of information acquisition, practice, feedback, and assessment. In my opinion, the designers were expecting students to come in with a "clean slate" with respect to prerequisite knowledge (i.e., all you needed was knowledge of basic arithmetic) and to answer the practice questions based on only the knowledge acquired from the lectures. Essentially, their approach to learning was based on the traditional classroom model of education, with the delivery simply transferred to the online platform.
 

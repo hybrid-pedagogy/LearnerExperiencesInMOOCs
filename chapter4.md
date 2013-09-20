@@ -4,8 +4,7 @@ title: Culinary Creations from the Online Chef
 author: Mary Bisheh
 ---
 
-{{ page.title }}
-================
+## {{ page.title }} ##
 
 **{{ page.author }}**
 
