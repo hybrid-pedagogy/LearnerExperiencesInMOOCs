@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becoming a DJ&#58 Learning How to Mix Electronic Music via the Open Web
+title: Becoming a DJ&#58; Learning How to Mix Electronic Music via the Open Web
 author: Michael Mendoza
 ---
 
