@@ -16,7 +16,7 @@ Kris Shaffer was instrumental in porting the book to Github. Kris, I am grateful
  
 Cindy Londeore worked with me to review and edit all the chapters in this book. Her attention to detail and ongoing enthusiasm shaped the book into its current form. I’m very grateful, Cindy!
  
-Even though this is the first book that Hybrid Pedagogy has taken on, I’m grateful that Jesse Stommel, Sean Michael Morris, Pete Rorabaugh were excited, eager, and willing to work with me on this project. Your support and encouragement is much appreciated!
+Even though this is the first book that Hybrid Pedagogy has taken on, I’m grateful that Jesse Stommel, Sean Michael Morris, Pete Rorabaugh, and Robin Wharton were excited, eager, and willing to work with me on this project. Your support and encouragement is much appreciated!
  
 Thank you to all of you. It does take a village…
  
