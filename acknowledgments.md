@@ -20,6 +20,6 @@ Even though this is the first book that Hybrid Pedagogy has taken on, I’m grat
  
 Thank you to all of you. It does take a village…
  
-George Veletsianos
-September 18, 2013
+George Veletsianos  
+September 18, 2013  
 Victoria, BC
