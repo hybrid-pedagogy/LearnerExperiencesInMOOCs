@@ -7,6 +7,8 @@ author: Cindy Londeore
 {{ page.title }}
 ================
 
+**{{ page.author }}**
+
 >I’m a dropout and I’m ok with that… I like that I am not obligated to stay in any particular MOOC.  I am free to spend my time on courses that are well suited to my interests and abilities, without penalties for trying something new.
 
 Dropout. It’s such a nasty word. The high school dropout rate is [held up by reformers](http://dropoutnation.net/) to bolster their argument that  the American public school system is failing. Massively Open Online Courses (MOOCs) have an [expected 90% dropout rate](http://www.insidehighered.com/news/2013/03/08/researchers-explore-who-taking-moocs-and-why-so-many-drop-out) which is not considered a problem. This juxtaposition begs the question; when is dropping out not a big deal?

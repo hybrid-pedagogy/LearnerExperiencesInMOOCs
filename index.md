@@ -19,6 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Chapter nine.][art9]  
 [Chapter ten.][art10]  
 [Chapter eleven.][art11]  
+[Contributors.](contributors.html)  
+[Acknowledgments.](acknowledgments.html)  
 
 [art1]: chapter1.html
 [art2]: chapter2.html
