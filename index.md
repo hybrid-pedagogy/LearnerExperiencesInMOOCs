@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample ebook
+title: Learning Experiences in MOOCs
 ---
 
 
