@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MOOCs: Falling Short of What Online Learning Could Be
+title: MOOCs&#58; Falling Short of What Online Learning Could Be
 author: Michael Ota
 ---
 
