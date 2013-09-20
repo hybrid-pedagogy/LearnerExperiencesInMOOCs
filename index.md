@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 # Articles #
 
-[Table of Contents.](TOC.html)
+[Table of Contents.](TOC.html)  
 [Chapter one.][art1]  
 [Chapter two.][art2]  
 [Chapter three.][art3]  
