@@ -1,0 +1,109 @@
+latex input:		mmd-article-header
+Title:				Learning Experiences in MOOCs and Open Online Learning
+Author:				ed., George Veletsianos
+Date:				
+Base Header Level:	1
+latex mode:			memoir
+latex input:		mmd-article-begin-doc
+latex footer:		mmd-memoir-footer
+
+# Contents #
+
+Chapter 1: [How do learners experience open online learning?](chapter1.html)  
+George Veletsianos, PhD
+
+Chapter 2: [Searching for Extraterrestrials, One Video Lecture at a Time](chapter2.html)  
+Jennifer Ramirez
+
+Chapter 3: [MOOCs&#58; Falling Short of What Online Learning Could Be](chapter3.html)  
+Michael Ota
+
+Chapter 4: [Culinary Creations from the Online Chef](chapter4.html)  
+Mary Bisheh
+
+Chapter 5: [MOOCs made me see the potential of online learning](chapter5.html)  
+Hui-chieh Chen
+
+Chapter 6: [Free, but monotonous and frustrating?](chapter6.html)  
+Afriannoor Miradinata
+
+Chapter 7: [Tales of a MOOC Dropout](chapter7.html)    
+Cindy Londeore
+
+Chapter 8: [What I Learned From And About MOOCs](chapter8.html)  
+Bahaa G. Ghobrial
+
+Chapter 9: [Learning about MOOCs by being in one](chapter9.html)  
+Mihyun Lim
+
+Chapter 10: [How I Learned to Stop Struggling and Translate the Web](chapter10.html)  
+Anne Valauri
+
+Chapter 11: [Becoming a DJ&#58; Learning How to Mix Electronic Music via the Open Web](chapter11.html)  
+Michael Mendoza
+
+[Contributors](contributors.html)
+
+[Acknowledgments](acknowledgments.html)  
+
+
+# How do learners experience open online learning? #
+**George Veletsianos, PhD**
+
+>At a time when researchers and online learning providers are embracing the use of learning analytics and big data to examine learner behaviors, activities, and actions, very few researchers have sought to gain a deep, qualitative, and multidimensional understanding of learner experiences with open forms of learning.
+
+*Learner Experiences with MOOCs and Open Online Learning* is an e-book in which student authors describe and reflect upon their open online learning experiences. Current conversations around educational innovations in general, and MOOCs in particular, lack student voices. This book enables learners to share their stories, thus contributing to our understanding of open online learning.
+
+A number of questions guided the development of this book. These included: What are learner experiences with open online courses, MOOCs, and other forms of open online learning? What is it like to participate in open online learning? What are learners’ perspectives on open education? Answers to these questions clarify the nature of open online learning, help us focus innovations on learners, and aid us in improving digital learning initiatives.
+
+Learner experiences arise from the ways learners interact with and respond to content, activities, instructional methods, instructors, and the context within which learning and instruction happen ([Parrish, 2005](http://bit.ly/14eLBjw)). At a time when researchers and online learning providers are embracing the use of learning analytics and big data to examine learner behaviors, activities, and actions, very few researchers have sought to gain a deep, qualitative, and multidimensional understanding of learner experiences with open forms of learning. Yet, understanding learner experiences is vital. A nuanced appreciation of how users experience open learning, including the successes and obstacles they face, will assist learning designers, researchers, and providers in refining and improving open online learning.
+
+*Learner Experiences with MOOCs and Open Online Learning* delivers two important findings:
+
+-   The realities of open online learning are different from the hopes of open online learning. The disconnect between reality and promise has been observed in a number of other areas pertaining to educational technology (Selwyn, 2010). Learners’ experiences with open online learning and MOOCs do not fit neatly within monolithic narratives because these experiences are neither uniform, nor straightforward. For example, learners describe some of their experiences as meaningful and empowering. Others describe them as mundane or simply mediocre. Students encounter formidable obstacles, but also appreciate flexible opportunities for learning. The reality of open online learning is that learners’ experiences are neither as overwhelmingly positive as optimists make them out to be, nor as poor as critics suggest they are.
+
+-   We only have small pieces of an incomplete mosaic of students’ learning experiences with open online learning. While some research on learner experiences, perceptions, and practices in open online learning exists (e.g., Cheng, Kulkarni, & Klemmer, 2013; Hilton, Graham, Rich, & Wiley, 2010; Koller, Ng, Do, & Chen., 2013; Kop, 2011; Siemens, Irvine, & Code, 2013), [empirical research on MOOCs and open online learning is nascent](http://www.veletsianos.com/2013/06/05/the-research-that-moocs-need/). Furthermore, investigations are conducted in different contexts and focus on different aspects of the learner experience. Thus, we need to recognize that the field’s understanding of open online learning is not simply incomplete, but may represent a partial picture of what happens in such settings. The student experiences described in this book contribute to our understanding of online learning, adding missing pieces in an ever-evolving and complex mosaic.
+
+These two insights challenge instructors, administrators, learning designers, developers, and researchers to focus on the *design* of open online learning. The learner experiences shared within this book make it clear that “massive,” “open,” and “online” do not ensure positive or negative learning experiences. What we need, as a field, is to examine how to (a) design effective, engaging, challenging, participatory, and caring personal learning experiences for emerging contexts, and (b) use pedagogical and technological affordances to foster learning. The experiences described in this book suggest that open online learning providers need to pay closer attention to learners. In doing so, designers will discover that even though individuals appreciate the opportunities provided to them, learners like Valauri (chapter 10) may struggle “more with trying to learn the tools than with trying to learn the [content],” or students like Ota (chapter 3) might attain a certificate but may still experience “feelings of hollowness and incompleteness.” Learning designers will also discover that some learners (e.g., chapter 5) may use open online courses in unintended, but meaningful, ways.
+
+It is important to mention that this e-book does not purport to present a generalized description of learner experiences with MOOCs, any specific MOOC, or open online learning. While some MOOCs share certain characteristics (e.g., video-based lectures, discussion boards, peer review for assessment purposes), courses differ in important dimensions, including their design. For example, the [original concept of a MOOC](http://www.elearnspace.org/blog/2012/07/25/moocs-are-really-a-platform/) bears little resemblance to the MOOCs popularized by [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), and [EdX](https://www.edx.org/). Additionally, while the learner experiences and stories described in this book yield detailed accounts of individual experiences, they do not purport to reveal generalized truths about any particular course or about the experiences of others.
+
+Furthermore, this book should not be taken to represent a description of learner experiences with traditional online education. “Online education” has a long tradition and is a broad umbrella term that captures a multitude of approaches to learning -- from step-by-step tutorials designed to impart specific skills to autonomous exploration of online resources and communities of interest. [Online education and MOOCs are similar, but unique, concepts](http://www.insidehighered.com/blogs/technology-and-learning/bubbles-online-education-and-confused-reporting). Conflating the two does a disservice to the field, to educators who strive to improve learning, and to the scholars who have spent their careers investigating the discipline and practice of online education. Above all however, flattening terms and conflating ideas does a disservice to learners worldwide: such an oversimplification prevents educators, designers, developers, and researchers from seeing what is unique in each context, and impedes stakeholders from improving learning environments and platforms.
+
+## The process behind *Learner Experiences with MOOCs and Open Online Learning* ##
+
+As part of a course focused on online learning, I asked my graduate students to immerse themselves in open online learning endeavors and journal about, reflect upon, and examine their own learning experiences. The purpose of this assignment/experiment was to allow students to explore and investigate open online learning. Students were free to define open online learning in different ways. For example, they could choose from a gamut of open online courses (e.g., from [DS106](http://ds106.us/) to any of the courses offered by MOOC providers such as Udacity, EdX, and Coursera), or they could identify skills, competencies, and content they wanted to learn and carve their own path towards desired outcomes. I asked students to focus on topics that were of interest to them and to participate in this experience for two months. To accommodate for variations in course start dates, course lengths, and unexpected events (e.g., course cancellations), I allowed students to explore and participate in more than one experience if the need arose. I felt that such a flexible approach was reasonable (and perhaps necessary) to approximate what individuals do when they undertake open learning out of their own volition.
+
+Put simply, I asked my students to pursue lifelong learning endeavors in relation to topics that were of interest to them and write short essays describing their experiences.
+
+Even though this activity was originally developed as a way for students to “do” open online learning, and not just “read about” it, as my students examined open online learning in more detail, I became motivated to share their experiences and stories with others. In particular, during this time I came to the following three realizations that encouraged the sharing of their experiences:
+
+-   *The narrative of MOOC successes is often one-sided*. MOOC providers tend to share the stories of extraordinary individuals that overcome insurmountable struggles to succeed in MOOCs (e.g., individuals in conflict-ridden [Afghanistan](http://singularityhub.com/2012/01/28/sebastian-thrun-aims-to-revolutionize-university-education-with-udacity/) and [Syria](http://blog.coursera.org/post/54893006665/it-is-never-too-late-to-start-again-a-syrian) that participate in MOOCs). These stories are inspiring. These individuals can serve as role models for others and should be celebrated. At the same time however, there are numerous individuals that have struggled with and abandoned MOOCs, individuals whose life circumstances, motivations, and needs negatively impacted their learning. The stories of these individuals are rarely shared. They are, in fact, concealed. They become figures and statistics (e.g., “90% dropped out” or “82% completed the first two assignments”), and their stories remain untold.
+
+-   *Discussions surrounding MOOCs and open courses lack a deep examination of the human experience*. [MOOCs are still experimental](http://mooc.efquel.org/week-7-moocs-quality-by-martin-weller/), but at a time when enthusiasts hope to personalize learning experiences and make them [more engaging](http://www.usnews.com/education/online-education/articles/2013/06/21/moocs-expand-on-college-campuses), we have little evidence of what it is like to learn and participate in a MOOC. Even though a number of MOOC [review](http://coursetalk.org/) [sites](http://www.knollop.com/) exist, and some participants -- such as [Karen Gallagher](http://www.insidehighered.com/views/2013/06/11/essay-disappointing-experience-mooc), [Jonathan Rees](https://moreorlessbunk.wordpress.com/2012/12/21/world-history-mooc-report-16-in-which-i-try-to-sum-the-whole-thing-up/), and [Mary Stewart](http://wheel.ucdavis.edu/2013/02/moocs-as-participatory-communities-my-experience-with-elearning-and-digital-cultures/) -- have provided testimony, personal accounts are hard to find.
+
+-   *Discussions surrounding MOOCs and Open Courses rarely include student voices*. The discussions and debates in the field focus on a number of issues pertinent to students (e.g., affordability, access, learning outcomes), but forums for students to express their opinions about these issues are limited. In fact, valuing, respecting, and appreciating the student voice is one of major accomplishments of the progressive education movement, but it seems that this voice has been drowned in the frenzy and excitement surrounding the massive open online course phenomenon.
+
+These three realizations led me to seek ways to enable my students to tell their stories to a broader audience. Their experiences – positive, negative, ordinary, extraordinary – paint an intricate picture of open online learning that needs to be shared.
+
+I discussed these issues with my students, and together we decided to seek ways to share their essays with others. We debated self-publishing essays (as others [have](http://pm4id.org/) [done](https://en.wikibooks.org/wiki/Breaking_the_Mold:_An_Educational_Perspective_on_Diffusion_of_Innovation)), publishing the essays with an academic book publisher, or sharing them via our social media channels. We decided that we wanted the essays to be peer-reviewed, published as part of a collection, and to become available quickly so as to contribute to the conversation at a time when the field needs it most. The editors of *Hybrid Pedagogy* shared our vision and were eager and excited to provide a forum for the learner voice to be heard. The outcome of this endeavor is the e-book that you are reading: a collection of essays, a collection of learner stories of their experiences with open online learning.
+
+## Concluding thoughts ##
+
+As designers, researchers, and educators aiming to create learning experiences that are effective, worthwhile and sensitive to student needs, it is imperative that we involve learners in conversations and decisions surrounding education. I hope that this e-book provides a valuable resource for students, researchers, and designers to understand learner experiences with open forms of learning, and that it encourages others to study learner experiences and to contribute to our shared understanding of what it means to teach and learn in today’s emerging learning environments.
+
+### References ###
+
+Cheng, J., Kulkarni, C., & Klemmer, S. (2013). Tools for predicting drop-off in large online classes. Proceedings of the 2013 conference on *Computer Supported Cooperative Work*.
+
+Hilton, J. L., Graham, C., Rich, P., & Wiley, D. (2010). Using online technologies to extend a classroom to learners at a distance. *Distance Education*, 31(1), 77–92.
+
+Koller, D., Ng, A., Do, C., & Chen, Z. (2013). Retention and Intention in Massive Open Online Courses: In Depth. *Educause Review Online.* Retrieved from[ ](http://bit.ly/10MwVK6)[http://bit.ly/10MwVK6](http://bit.ly/10MwVK6)
+
+Kop, R. (2011). The challenges to connectivist learning on open online networks: Learning experiences during a massive open online course. *The International Review Of Research In Open And Distance Learning*, 12(3), 19-38.
+
+Parrish, P. (2005). Embracing the aesthetics of instructional design. *Educational Technology*, 45(2), 16-25. Retrieved from [http://bit.ly/14eLBjw](http://bit.ly/14eLBjw) 
+
+Selwyn, N. (2010). Looking beyond learning: notes towards the critical study of educational technology. *Journal of Computer Assisted Learning*, 26(1), 65–73.
+
+Siemens, G., Irvine, V., & Code, J. (2013). An Academic Perspective on an Emerging Technological and Social Trend. *Journal of Online Learning and Teaching*. Retrieved from [http://jolt.merlot.org/vol9no2/siemens\_editorial\_0613.htm](http://jolt.merlot.org/vol9no2/siemens_editorial_0613.htm) 
