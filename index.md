@@ -8,24 +8,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 
 # Articles #
 
-[Article one.][art1]  
-[Article two.][art2]  
-[Article three.][art3]  
-[Article four.][art4]  
-[Article five.][art5]  
-[Article six.][art6]  
-[Article seven.][art7]  
-[Article eight.][art8]  
-[Article nine.][art9]  
-[Article ten.][art10]  
+[Chapter one.][art1]  
+[Chapter two.][art2]  
+[Chapter three.][art3]  
+[Chapter four.][art4]  
+[Chapter five.][art5]  
+[Chapter six.][art6]  
+[Chapter seven.][art7]  
+[Chapter eight.][art8]  
+[Chapter nine.][art9]  
+[Chapter ten.][art10]  
+[Chapter eleven.][art11]  
 
-[art1]: article1.html
-[art2]: article2.html
-[art3]: article3.html
-[art4]: article4.html
-[art5]: article5.html
-[art6]: article6.html
-[art7]: article7.html
-[art8]: article8.html
-[art9]: article9.html
-[art10]: article10.html
+[art1]: chapter1.html
+[art2]: chapter2.html
+[art3]: chapter3.html
+[art4]: chapter4.html
+[art5]: chapter5.html
+[art6]: chapter6.html
+[art7]: chapter7.html
+[art8]: chapter8.html
+[art9]: chapter9.html
+[art10]: chapter10.html
+[art11]: chapter11.html
