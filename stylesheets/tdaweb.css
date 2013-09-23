@@ -1,6 +1,7 @@
 body{
-    background-image: url('bgpic.png');
-    background-repeat: repeat-x;
+#    background-image: url('bgpic1024.jpg');
+#    background-repeat: no-repeat;
+#    background-position: center;
 }
 h1{
     font-size: 48px !important;

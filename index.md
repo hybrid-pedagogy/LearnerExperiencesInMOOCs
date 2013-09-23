@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: front
 title: Learning Experiences in MOOCs and Open Online Learning
 ---
 
