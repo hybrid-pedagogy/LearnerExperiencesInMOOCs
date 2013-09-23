@@ -48,8 +48,10 @@ The midterm exam was slightly more formal. I was still allowed three attempts, b
 
 I found the material in this course so interesting and accessible that I was still going back to listen to the new lectures even though the time period for this reflection project had expired. I continued doing so, and I was able to successfully complete the course and receive a certificate (figure 1).
 
-![](images/image00.png)  
-*Figure 1. My Model Thinking Certificate*
+<div id="centeredimage">
+	<a href="images/image00-fullsize.png"><img src="images/image00.png"/></a><br/>
+	<i>Figure 1. My Model Thinking Certificate</i>
+</div>
 
 ### In retrospect... ###
 

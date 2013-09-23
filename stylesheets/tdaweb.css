@@ -60,3 +60,13 @@ h3{
     background-size: 279px 236px;
 }
 
+#centeredimage {
+    text-align:center;
+    vertical-align:middle;
+    height:500px;
+}
+
+#centeredimage img {
+    vertical-align:middle;
+    max-height:100%;
+}
