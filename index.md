@@ -41,14 +41,4 @@ title: Learning Experiences in MOOCs and Open Online Learning
 
 <small>View the Project on GitHub: [hybrid-pedagogy/LearningExperiencesInMOOCs](https://github.com/hybrid-pedagogy/LearningExperiencesInMOOCs)</small>
 <body><img class="bg" src="images/background.png" /></body>
-<style type="text/css">
-.bg {
-	position: absolute;
-    left: 0;
-    top: 0;
-	width: 100%;
-	height: 100%;
-	z-index:-1;
-}
-
-</style>
+<style type="text/css"> .bg { position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index:-1;}</style>
