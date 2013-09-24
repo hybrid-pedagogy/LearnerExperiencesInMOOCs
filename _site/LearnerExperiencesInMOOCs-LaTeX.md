@@ -1,5 +1,5 @@
 latex input:		mmd-article-header
-Title:				Learner Experiences in MOOCs and Open Online Learning
+Title:				Learner Experiences with MOOCs and Open Online Learning
 Author:				ed., George Veletsianos
 Date:				
 Base Header Level:	2
