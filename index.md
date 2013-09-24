@@ -21,13 +21,11 @@ title: Learning Experiences in MOOCs and Open Online Learning
         </a>
     </p>
 
-<!--
-<p>
+	<p>
     <a href="LearnerExperiencesInMOOCs.mobi" target="_">
         <button type="button" class="btn btn-primary btn-lg btn-block">Download Full Book (Kindle/mobi)</button>
         </a>
     </p>
--->
 	
 <p>
     <a href="LearningExperiencesInMOOCs.pdf" target="_">
