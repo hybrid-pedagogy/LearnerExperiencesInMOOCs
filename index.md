@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Learning Experiences in MOOCs and Open Online Learning
+title: Learning Experiences with MOOCs and Open Online Learning
 ---
 
 
